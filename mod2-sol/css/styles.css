@@ -6,6 +6,7 @@
 body{
     margin: 0;
     padding: 0;
+    margin-left: 10px;
 }
 .section
 {
@@ -13,14 +14,17 @@ body{
     padding: 5px;
     border: 1px solid black;
     margin: 2%;
+    font-size: small;
      }
  h1{
      margin:10px;
     color: red;
     text-align: center;
+    font-size: larger;
  }
 h3
  {
+     font-size: medium;
      position: absolute;
      margin: 2px;
     top :-3px;
@@ -61,7 +65,7 @@ h3
       float:left;
        }
         .col-lg-4{
-             width: 29.3%;
+             width: 29.33%;
               }
               }
               @media (min-width:768px) and (max-width:991px)
